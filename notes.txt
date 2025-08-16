@@ -1,1 +1,2 @@
 These are my practice notes while learning GitHub!
+This is an additional note. I am learning how to edit files on GitHub!
